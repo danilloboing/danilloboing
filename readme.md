@@ -18,4 +18,4 @@
   <link href = "https://wa.me/4791131104"><img src=https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
  </div>
     <br>
-   (https://github.com/danilloboing/danilloboing/blob/output/github-contribution-grid-snake.svg) 
+   ![Snake animation](https://github.com/danilloboing/danilloboing/blob/output/github-contribution-grid-snake.svg) 
