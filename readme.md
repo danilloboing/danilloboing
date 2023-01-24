@@ -19,5 +19,5 @@
  </div>
     <br>
 
-![Snake animation](https://github.com/danilloboing/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/danilloboing/danilloboing/blob/output/github-contribution-grid-snake.svg)
   
