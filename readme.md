@@ -21,5 +21,5 @@
   <br>
   <br>
 
-  ![Snake animation](https://github.com/danilloboing/danilloboing/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/danilloboing/danilloboing_main/blob/output/github-contribution-grid-snake.svg)
   
